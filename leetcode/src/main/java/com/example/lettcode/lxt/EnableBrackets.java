@@ -45,6 +45,5 @@ public class EnableBrackets {
         put('{', '}');
         put('[', ']');
         put('(', ')');
-        put('?', '?');
     }};
 }
